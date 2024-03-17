@@ -1,5 +1,7 @@
 Below is the project description:
 
+"This project runs on Streamlit within an Anaconda environment."
+
 Introduction:  
 Agriculture involves preparing soil, growing crops, and raising livestock for food, fiber, and other goods. It employs diverse techniques for optimizing crop yields and integrating technology for efficiency.Predictions in agriculture are crucial for planning, resource management, and eco-friendly farming. Advanced technology has changed traditional methods and allows for more accurate predictions in crop yields, suitability, environmental conditions, and soil health. Machine learning, a subset of artificial intelligence, enables systems to learn from data and make predictions without explicit programming. In agriculture, machine learning models analyze large datasets containing attributes like soil condition, weather, and crop performance to predict outcomes accurately. Crop yield prediction and crop recommendation are key aspects of our project, aiming to empower farmers with knowledge and practical tools for sustainable and diversified farming practices.
 
